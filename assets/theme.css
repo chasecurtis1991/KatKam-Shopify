@@ -4991,7 +4991,7 @@ html {
 }
 
 .template-product .page-container {
-  background-color: hsl(271deg 88% 20%);
+  background-color: white;
 }
 
 .product-single {
@@ -6147,7 +6147,7 @@ shopify-payment-terms {
 }
 
 .page-container {
-  background-color: #f7f7f7;
+  background-color: hsl(271deg 88% 20%);
 }
 
 .is-moved-by-drawer {
