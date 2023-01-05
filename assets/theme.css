@@ -6147,7 +6147,11 @@ shopify-payment-terms {
 }
 
 .page-container {
-  background-color: hsl(271deg 88% 20%);
+  background-color: white;
+}
+
+.purple-bg {
+  background-color: hsl(271deg 88% 20%) !important;
 }
 
 .is-moved-by-drawer {
