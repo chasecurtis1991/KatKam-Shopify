@@ -3,9 +3,10 @@
     "name": "theme_info",
     "theme_name": "MotoChase",
     "theme_author": "Shopify",
-    "theme_version": "0.0.1",
+    "theme_version": "1.0.0",
     "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/using-themes\/themes-by-shopify\/venture",
-    "theme_support_url": "https:\/\/support.shopify.com\/"
+    "theme_support_url": "https:\/\/support.shopify.com\/",
+    "theme_support_email": "chase@chasecurtis.com"
   },
   {
     "name": {
