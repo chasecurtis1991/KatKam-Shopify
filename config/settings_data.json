@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "color_header_bg": "#030303",
@@ -22,12 +31,12 @@
     "type_nav_transform": true,
     "product_images_padding": true,
     "product_vendor_enable": false,
-    "social_onlyfans_link": "https:\/\/www.onlyfans.com\/itskatkam",
-    "social_facebook_link": "https:\/\/www.facebook.com\/itskatkam",
-    "social_twitter_link": "https:\/\/twitter.com\/itskatkam",
-    "social_instagram_link": "https:\/\/www.instagram.com\/itskatkam\/",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UClbb88AWXT_JjhEoNoxIv4A",
-    "favicon": "shopify:\/\/shop_images\/Logo-Only.png",
+    "social_onlyfans_link": "https://www.onlyfans.com/itskatkam",
+    "social_facebook_link": "https://www.facebook.com/itskatkam",
+    "social_twitter_link": "https://twitter.com/itskatkam",
+    "social_instagram_link": "https://www.instagram.com/itskatkam/",
+    "social_youtube_link": "https://www.youtube.com/channel/UClbb88AWXT_JjhEoNoxIv4A",
+    "favicon": "shopify://shop_images/Logo-Only.png",
     "checkout_accent_color": "#9839f3",
     "checkout_button_color": "#9839f3",
     "checkout_banner_background_color": "#fff",
@@ -41,7 +50,7 @@
           "placeholder-1": {
             "type": "slide",
             "settings": {
-              "image": "shopify:\/\/shop_images\/KAT._KAMERA._ACTION._2.png",
+              "image": "shopify://shop_images/KAT._KAMERA._ACTION._2.png",
               "image_position": "center top",
               "title": "",
               "button_label": "View all products",
@@ -51,7 +60,7 @@
           "placeholder-0": {
             "type": "slide",
             "settings": {
-              "image": "shopify:\/\/shop_images\/KAT._KAMERA._ACTION._3.png",
+              "image": "shopify://shop_images/KAT._KAMERA._ACTION._3.png",
               "image_position": "center top",
               "title": "",
               "button_label": "View all products",
@@ -82,7 +91,7 @@
             "type": "text",
             "settings": {
               "title": "For All Business Inquires",
-              "text": "<p>itskatkam@gmail.com<\/p>"
+              "text": "<p>itskatkam@gmail.com</p>"
             }
           },
           "3478a735-265f-4cce-8109-11c959d734d1": {
@@ -91,7 +100,7 @@
               "color_newsletter_input": "#1a1a1a",
               "color_newsletter_input_text": "#ffffff",
               "title": "Get Connected",
-              "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+              "subheading": "<p>Promotions, new products and sales. Directly to your inbox.</p>"
             }
           },
           "8cc3a94d-a4f6-44c1-bdde-dac0b5ba5ca4": {
@@ -159,7 +168,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Logo-Only.png",
+          "logo": "shopify://shop_images/Logo-Only.png",
           "logo_max_width": "128",
           "main_linklist": "main-menu",
           "promo_bar_enable": false,
